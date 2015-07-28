@@ -15,6 +15,8 @@ publish: true
 
 테스트
 
+{% youtube ybEJxAvq4ZU %}
+
 ```javascript
 // 테스트
 test
