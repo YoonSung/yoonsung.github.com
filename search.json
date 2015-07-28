@@ -1,0 +1,10 @@
+---
+---
+[
+  {% for post in site.posts %}
+  	{% if post.type == "Tags"%}
+    {% include post.json %},
+    {% endif %}
+  {% endfor %}
+  null
+]
