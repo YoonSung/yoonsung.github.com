@@ -15,7 +15,7 @@ publish: true
 
 테스트
 
-{% youtube ybEJxAvq4ZU %}
+<iframe width="560" height="420" src="http://www.youtube.com/embed/ybEJxAvq4ZU?color=white&amp;theme=light"></iframe>
 
 ```javascript
 // 테스트
