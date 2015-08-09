@@ -2,7 +2,7 @@
 ---
 [
   {% for post in site.posts %}
-  	{% if post.type == "Tags"%}
+  	{% if post.type == "Tags" and post.publish == true%}
     {% include post.json %},
     {% endif %}
   {% endfor %}
