@@ -5,7 +5,7 @@ title: "Home Security Manager"
 author: Yoonsung
 author-email: estrella@nhnnext.org
 description: 폐 스마트폰을 이용한 스마트 웹캠
-tags: [NanoHTTPD, Android Web Server, Arduino, Arduino Car]
+tags: [NanoHTTPD, Android_WebServer, Arduino, Arduino_Car]
 publish: true
 ---
 
