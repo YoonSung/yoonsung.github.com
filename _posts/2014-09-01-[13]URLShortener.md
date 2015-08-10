@@ -7,6 +7,7 @@ author-email: estrella@nhnnext.org
 description: URL축약 서비스
 tags: [Servlet, Mysql, Redis]
 publish: true
+priority: 13
 ---
 
 > Redis 및 Mysql Dump BackUp을 이용한 URL 축약 웹서비스입니다. URL을 입력하면, 짧은 버전의 URL을 반환하고, 해당 URL접근시 원본 URL로 리다이렉트 시켜 주는 기능을 합니다. Redis에 저장된 데이터는 Linux Cron Job을 통해 주기적으로 RDBMS (Mysql)로 백업됩니다.

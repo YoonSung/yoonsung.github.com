@@ -7,6 +7,7 @@ author-email: estrella@nhnnext.org
 description: TDD 학습을 위한 연습용 게시판 프로젝트
 tags: [Spring, TDD, Gradle]
 publish: true
+priority: 4
 ---
 
 > TDD스터디에서 학습을 위해 진행한 연습용 프로젝트입니다

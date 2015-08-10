@@ -1,7 +1,8 @@
 ---
 ---
 [
-  {% for post in site.posts %}
+  {% assign sorted_pages = site.posts | sort:"priority" | reverse %}
+  {% for post in sorted_pages %}
   	{% if post.type == "Tags" and post.publish == true%}
     {% include post.json %},
     {% endif %}

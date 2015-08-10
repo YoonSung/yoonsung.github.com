@@ -7,6 +7,7 @@ author-email: estrella@nhnnext.org
 description: Test Tag
 tags: [Test]
 publish: false
+priority: 1
 ---
 
 > 두잇서베이에서 제공하던 “이슈 & 뉴스 POLL”이라는 서비스를 활용한 프로젝트입니다. 해당 서비스는 누구나 참여하고 결과를 확인할 수 있는 공개투표였으며, 그 결과는 보도자료로 활용하고 있었습니다.

@@ -7,6 +7,7 @@ author-email: estrella@nhnnext.org
 description: 폐 스마트폰을 이용한 스마트 웹캠
 tags: [NanoHTTPD, Android_WebServer, Arduino, Arduino_Car]
 publish: true
+priority: 5
 ---
 
 > 실시간 웹캠을 폐스마트폰을 이용해 구현한 프로젝트입니다. 폐스마트폰에는 아두 이노 자동차가 연결되어 있으며 동시에 웹서버 역할을 합니다.
