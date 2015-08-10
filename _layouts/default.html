@@ -49,7 +49,7 @@
               selected
               {% endif %} menu-about" href="{{ base_path }}/about.html">About me</a></li>
             <li><a class="
-              {% if page.url != '/about.html' or page.url != '/portfolio.html'%}
+              {% if page.url != '/about.html' and page.url != '/portfolio.html'%}
                 {% if page.url contains '/search.html'%}
                 {% else %}
                   selected
