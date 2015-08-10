@@ -534,7 +534,7 @@ a.footnote:hover,
 }
 .author {
   overflow: auto;
-  padding: 30px 0;
+  padding: 30px 0 10px  0;
   border-bottom: 1px solid #e9ebf0; /*$grey-1*/
 }
 .author-title {
@@ -552,7 +552,8 @@ a.footnote:hover,
 .nick-name {
   margin-right: 10px;
   font-weight: bold;
-  font-size: 18px;
+  /*font-size: 18px;*/
+  font-size: 2em;
 }
 .nick-name a {
   color: #4f5259; /* @semi_dark_grey_p5 */
